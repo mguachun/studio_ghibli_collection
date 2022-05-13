@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studio_ghibli_collection/static/css/main.5cfd0b71.css",
+    "main.js": "/studio_ghibli_collection/static/js/main.b0480dc8.js",
+    "static/js/787.4203c16b.chunk.js": "/studio_ghibli_collection/static/js/787.4203c16b.chunk.js",
+    "index.html": "/studio_ghibli_collection/index.html",
+    "main.5cfd0b71.css.map": "/studio_ghibli_collection/static/css/main.5cfd0b71.css.map",
+    "main.b0480dc8.js.map": "/studio_ghibli_collection/static/js/main.b0480dc8.js.map",
+    "787.4203c16b.chunk.js.map": "/studio_ghibli_collection/static/js/787.4203c16b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cfd0b71.css",
+    "static/js/main.b0480dc8.js"
+  ]
+}
